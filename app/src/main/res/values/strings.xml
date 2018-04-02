@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spark</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="user_name">Please enter user name</string>
+    <string name="password">Please enter password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register">Dont have a account? click here to register</string>
+    <string name="skip">I just want to browse the offers for now</string>
+    <string name="adress">Please enter a valid email address</string>
+    <string name="birthday">Enter your birthday</string>
+
+    <!-- Strings related to login -->
+
+</resources>
